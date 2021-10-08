@@ -1951,6 +1951,15 @@
   },
   {
     "featured": false,
+    "id": "zellim-groups",
+    "name": "Zellim Groups",
+    "version": "1.0.0",
+    "icons": {
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/zellim-groups/icon.svg"
+    }
+  },
+  {
+    "featured": false,
     "id": "zellim-notes",
     "name": "Zellim Notes",
     "version": "1.0.0",
