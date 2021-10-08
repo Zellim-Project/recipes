@@ -1,0 +1,11 @@
+{
+  "id": "zellim-chat",
+  "name": "Zellim Chat",
+  "version": "1.0.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.zellim.com/chat?desktopService=true",
+    "hasCustomUrl": false,
+    "hasNotificationSound": true
+  }
+}

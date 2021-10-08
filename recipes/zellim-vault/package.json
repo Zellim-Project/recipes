@@ -1,0 +1,11 @@
+{
+  "id": "zellim-vault",
+  "name": "Zellim Vault",
+  "version": "1.0.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.zellim.com/vault?desktopService=true",
+    "hasCustomUrl": false,
+    "hasNotificationSound": true
+  }
+}

@@ -1897,6 +1897,96 @@
   },
   {
     "featured": false,
+    "id": "zellim",
+    "name": "Zellim",
+    "version": "1.0.0",
+    "icons": {
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/zellim/icon.svg"
+    }
+  },
+  {
+    "featured": false,
+    "id": "zellim-calendar",
+    "name": "Zellim Calendar",
+    "version": "1.0.0",
+    "icons": {
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/zellim-calendar/icon.svg"
+    }
+  },
+  {
+    "featured": false,
+    "id": "zellim-chat",
+    "name": "Zellim Chat",
+    "version": "1.0.0",
+    "icons": {
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/zellim-chat/icon.svg"
+    }
+  },
+  {
+    "featured": false,
+    "id": "zellim-conference",
+    "name": "Zellim COnference",
+    "version": "1.0.0",
+    "icons": {
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/zellim-conference/icon.svg"
+    }
+  },
+  {
+    "featured": false,
+    "id": "zellim-contacts",
+    "name": "Zellim Contacts",
+    "version": "1.0.0",
+    "icons": {
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/zellim-contacts/icon.svg"
+    }
+  },
+  {
+    "featured": false,
+    "id": "zellim-dashboard",
+    "name": "Zellim Dashboard",
+    "version": "1.0.0",
+    "icons": {
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/zellim-dashboard/icon.svg"
+    }
+  },
+  {
+    "featured": false,
+    "id": "zellim-notes",
+    "name": "Zellim Notes",
+    "version": "1.0.0",
+    "icons": {
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/zellim-notes/icon.svg"
+    }
+  },
+  {
+    "featured": false,
+    "id": "zellim-organization",
+    "name": "Zellim Organization",
+    "version": "1.0.0",
+    "icons": {
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/zellim-organization/icon.svg"
+    }
+  },
+  {
+    "featured": false,
+    "id": "zellim-projects",
+    "name": "Zellim Projects",
+    "version": "1.0.0",
+    "icons": {
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/zellim-projects/icon.svg"
+    }
+  },
+  {
+    "featured": false,
+    "id": "zellim-vault",
+    "name": "Zellim Vault",
+    "version": "1.0.0",
+    "icons": {
+      "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/zellim-vault/icon.svg"
+    }
+  },
+  {
+    "featured": false,
     "id": "zendesk",
     "name": "zendesk",
     "version": "1.1.1",
