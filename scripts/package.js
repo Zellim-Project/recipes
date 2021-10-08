@@ -10,7 +10,7 @@ const pkgVersionChangedMatcher = new RegExp(/\n\+.*version.*/);
 
 // Publicly availible link to this repository's recipe folder
 // Used for generating public icon URLs
-const repo = 'https://cdn.jsdelivr.net/gh/getferdi/recipes/recipes/';
+const repo = 'https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/';
 
 // Helper: Compress src folder into dest file
 const compress = (src, dest) =>
