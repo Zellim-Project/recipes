@@ -1,0 +1,11 @@
+{
+  "id": "zellim-projects",
+  "name": "Zellim Projects",
+  "version": "1.0.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.zellim.com/projects?desktopService=true",
+    "hasCustomUrl": false,
+    "hasNotificationSound": true
+  }
+}
