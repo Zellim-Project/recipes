@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://dev.zellim.com?desktopService=false",
+    "serviceURL": "https://app.zellim.com/dashboard?desktopService=false",
     "hasCustomUrl": false,
     "hasNotificationSound": true
   }
