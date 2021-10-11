@@ -1890,7 +1890,7 @@
     "featured": false,
     "id": "zellim-app",
     "name": "Zellim",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "icons": {
       "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-app/icon.svg"
     }
@@ -1899,7 +1899,7 @@
     "featured": false,
     "id": "zellim-calendar",
     "name": "Zellim Calendar",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "icons": {
       "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-calendar/icon.svg"
     }
@@ -1908,7 +1908,7 @@
     "featured": false,
     "id": "zellim-chat",
     "name": "Zellim Chat",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "icons": {
       "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-chat/icon.svg"
     }
@@ -1917,7 +1917,7 @@
     "featured": false,
     "id": "zellim-conference",
     "name": "Zellim Conference",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "icons": {
       "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-conference/icon.svg"
     }
@@ -1926,7 +1926,7 @@
     "featured": false,
     "id": "zellim-contacts",
     "name": "Zellim Contacts",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "icons": {
       "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-contacts/icon.svg"
     }
@@ -1935,7 +1935,7 @@
     "featured": false,
     "id": "zellim-dashboard",
     "name": "Zellim Dashboard",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "icons": {
       "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-dashboard/icon.svg"
     }
@@ -1944,7 +1944,7 @@
     "featured": false,
     "id": "zellim-groups",
     "name": "Zellim Groups",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "icons": {
       "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-groups/icon.svg"
     }
@@ -1953,7 +1953,7 @@
     "featured": false,
     "id": "zellim-notes",
     "name": "Zellim Notes",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "icons": {
       "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-notes/icon.svg"
     }
@@ -1962,7 +1962,7 @@
     "featured": false,
     "id": "zellim-organization",
     "name": "Zellim Organization",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "icons": {
       "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-organization/icon.svg"
     }
@@ -1971,7 +1971,7 @@
     "featured": false,
     "id": "zellim-projects",
     "name": "Zellim Projects",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "icons": {
       "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-projects/icon.svg"
     }
@@ -1980,7 +1980,7 @@
     "featured": false,
     "id": "zellim-vault",
     "name": "Zellim Vault",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "icons": {
       "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-vault/icon.svg"
     }

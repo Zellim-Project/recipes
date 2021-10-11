@@ -1,7 +1,7 @@
 {
   "id": "zellim-dashboard",
   "name": "Zellim Dashboard",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "MIT",
   "config": {
     "serviceURL": "https://app.zellim.com/dashboard?desktopService=true",
