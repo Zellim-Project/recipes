@@ -1980,7 +1980,7 @@
     "featured": false,
     "id": "zellim-vault",
     "name": "Zellim Vault",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "icons": {
       "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-vault/icon.svg"
     }
