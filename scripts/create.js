@@ -20,7 +20,7 @@ pnpm run create WhatsApp FerdiDev
 const recipeName = process.argv[2];
 const recipe = recipeName.toLowerCase().replace(/\s/g, '-');
 const cleanRecipeId = recipe.replace(/[^a-z]/g, ''); // Clean recipe ID only containing a-z, for usage as the JavaScript class name
-const folderName = process.argv[3] || 'Ferdi';
+const folderName = process.argv[3] || 'Zellim';
 const filesThatNeedTextReplace = [
   'package.json',
   'index.js',
@@ -43,7 +43,7 @@ const filesThatNeedTextReplace = [
   // Make sure dev recipe folder exists
   if (!fs.existsSync(recipesFolder)) {
     console.log(
-      `Couldn't find your recipe folder (${recipesFolder}). Is Ferdi installed?`,
+      `Couldn't find your recipe folder (${recipesFolder}). Is Zellim installed?`,
     );
     return;
   }
@@ -75,7 +75,7 @@ const filesThatNeedTextReplace = [
   console.log(`✅ Successfully created your recipe.
 
 What's next?
-- Make sure you restart Ferdi in order for the recipe to show up
+- Make sure you restart Zellim in order for the recipe to show up
 - Customise "webview.js", "package.json" and "icon.svg" (see https://github.com/getferdi/recipes/blob/master/docs/integration.md#recipe-structure)
 - Publish your recipe (see https://github.com/getferdi/recipes/blob/master/docs/integration.md#publishing)`);
 })();

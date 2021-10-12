@@ -1,20 +1,14 @@
-<p align="center">
-    <a href="https://getferdi.com/services">
-      <img src="./logo.svg" alt="" width="250"/>
-    </a>
-</p>
-
 # Recipes
 
-Official Recipe repository for Ferdi with over 100 recipes.
+Official Recipe repository for zellim with over 100 recipes.
 
-Copyright on these recipes is on their original creators - please look at `recipes/<id>/package.json` for information about the original creator and license. This is simply a curation of those recipes so we can include them into Ferdi.
+Copyright on these recipes is on their original creators - please look at `recipes/<id>/package.json` for information about the original creator and license. This is simply a curation of those recipes so we can include them into Zellim.
 
 ## What are "Recipes"?
 
-Recipes are small scripts that are responsible for providing the connection between your services (e.g. WhatsApp, GMail or Slack) and Ferdi. It provides Ferdi information like the number of current notifications, handles enabling dark mode and may otherwise improve your experience with the service.
+Recipes are small scripts that are responsible for providing the connection between your services (e.g. WhatsApp, GMail or Slack) and Zellim. It provides Zellim information like the number of current notifications, handles enabling dark mode and may otherwise improve your experience with the service.
 
-Each time you create a new service inside Ferdi, Ferdi will automatically install and execute the recipe associated with that service.
+Each time you create a new service inside Zellim, Zellim will automatically install and execute the recipe associated with that service.
 
 ## Creating and adding your own recipes
 
