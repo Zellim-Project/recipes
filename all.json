@@ -5,7 +5,7 @@
     "name": "air-droid",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/air-droid/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/air-droid/icon.svg"
     }
   },
   {
@@ -14,7 +14,7 @@
     "name": "Airtable",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/airtable/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/airtable/icon.svg"
     }
   },
   {
@@ -26,7 +26,7 @@
       "aws"
     ],
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/amazon-web-services/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/amazon-web-services/icon.svg"
     }
   },
   {
@@ -35,7 +35,7 @@
     "name": "Amazon WorkMail",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/amazon-work-mail/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/amazon-work-mail/icon.svg"
     }
   },
   {
@@ -44,7 +44,7 @@
     "name": "Android Messages",
     "version": "2.2.4",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/android-messages/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/android-messages/icon.svg"
     }
   },
   {
@@ -53,7 +53,7 @@
     "name": "AnonAddy",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/anonaddy/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/anonaddy/icon.svg"
     }
   },
   {
@@ -62,7 +62,7 @@
     "name": "Any.do",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/anydo/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/anydo/icon.svg"
     }
   },
   {
@@ -71,7 +71,7 @@
     "name": "Asana",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/asana/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/asana/icon.svg"
     }
   },
   {
@@ -83,7 +83,7 @@
       "azdo"
     ],
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/azure-devops/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/azure-devops/icon.svg"
     }
   },
   {
@@ -92,7 +92,7 @@
     "name": "basecamp",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/basecamp/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/basecamp/icon.svg"
     }
   },
   {
@@ -101,7 +101,7 @@
     "name": "BigBlueButton",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/bigbluebutton/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/bigbluebutton/icon.svg"
     }
   },
   {
@@ -110,7 +110,7 @@
     "name": "Binance",
     "version": "1.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/binance/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/binance/icon.svg"
     }
   },
   {
@@ -119,7 +119,7 @@
     "name": "BiP",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/bip/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/bip/icon.svg"
     }
   },
   {
@@ -128,7 +128,7 @@
     "name": "BitBucket",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/bitbucket/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/bitbucket/icon.svg"
     }
   },
   {
@@ -137,7 +137,7 @@
     "name": "Bitwarden",
     "version": "1.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/bitwarden/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/bitwarden/icon.svg"
     }
   },
   {
@@ -146,7 +146,7 @@
     "name": "box",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/box/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/box/icon.svg"
     }
   },
   {
@@ -155,7 +155,7 @@
     "name": "buffer",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/buffer/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/buffer/icon.svg"
     }
   },
   {
@@ -164,7 +164,7 @@
     "name": "Campuswire",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/campuswire/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/campuswire/icon.svg"
     }
   },
   {
@@ -173,7 +173,7 @@
     "name": "Canvas",
     "version": "1.0.3",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/canvas/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/canvas/icon.svg"
     }
   },
   {
@@ -182,7 +182,7 @@
     "name": "chatra",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/chatra/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/chatra/icon.svg"
     }
   },
   {
@@ -191,7 +191,7 @@
     "name": "ChatWork",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/chatwork/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/chatwork/icon.svg"
     }
   },
   {
@@ -200,7 +200,7 @@
     "name": "Cisco Spark",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/ciscospark/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/ciscospark/icon.svg"
     }
   },
   {
@@ -209,7 +209,7 @@
     "name": "ClickUp",
     "version": "2.2.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/clickup/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/clickup/icon.svg"
     }
   },
   {
@@ -218,7 +218,7 @@
     "name": "Cliq",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/cliq/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/cliq/icon.svg"
     }
   },
   {
@@ -227,7 +227,7 @@
     "name": "Clockify",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/clockify/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/clockify/icon.svg"
     }
   },
   {
@@ -236,7 +236,7 @@
     "name": "Clockwise",
     "version": "1.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/clockwise/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/clockwise/icon.svg"
     }
   },
   {
@@ -245,7 +245,7 @@
     "name": "Clubhouse",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/clubhouse/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/clubhouse/icon.svg"
     }
   },
   {
@@ -254,7 +254,7 @@
     "name": "Coinbase",
     "version": "1.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/coinbase/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/coinbase/icon.svg"
     }
   },
   {
@@ -263,7 +263,7 @@
     "name": "DevDocs",
     "version": "1.0.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/devdocs/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/devdocs/icon.svg"
     }
   },
   {
@@ -272,7 +272,7 @@
     "name": "devRant",
     "version": "1.0.3",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/devRant/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/devRant/icon.svg"
     }
   },
   {
@@ -281,7 +281,7 @@
     "name": "Dialpad",
     "version": "1.0.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/dialpad/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/dialpad/icon.svg"
     }
   },
   {
@@ -290,7 +290,7 @@
     "name": "Dingtalk",
     "version": "1.0.25",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/dingtalk/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/dingtalk/icon.svg"
     }
   },
   {
@@ -299,7 +299,7 @@
     "name": "Discord",
     "version": "1.4.5",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/discord/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/discord/icon.svg"
     }
   },
   {
@@ -308,7 +308,7 @@
     "name": "Disqus",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/disqus/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/disqus/icon.svg"
     }
   },
   {
@@ -317,7 +317,7 @@
     "name": "Docker Hub",
     "version": "1.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/dockerhub/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/dockerhub/icon.svg"
     }
   },
   {
@@ -326,7 +326,7 @@
     "name": "easy-redmine",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/easy-redmine/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/easy-redmine/icon.svg"
     }
   },
   {
@@ -339,7 +339,7 @@
       "Matrix"
     ],
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/element/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/element/icon.svg"
     }
   },
   {
@@ -348,7 +348,7 @@
     "name": "Epic Games Store",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/epicgames/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/epicgames/icon.svg"
     }
   },
   {
@@ -357,7 +357,7 @@
     "name": "eRepublik",
     "version": "1.1.3",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/erepublik/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/erepublik/icon.svg"
     }
   },
   {
@@ -366,7 +366,7 @@
     "name": "Evernote",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/evernote/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/evernote/icon.svg"
     }
   },
   {
@@ -375,7 +375,7 @@
     "name": "Facebook",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/facebook/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/facebook/icon.svg"
     }
   },
   {
@@ -384,7 +384,7 @@
     "name": "Facebook Pages",
     "version": "1.2.3",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/facebookpages/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/facebookpages/icon.svg"
     }
   },
   {
@@ -393,7 +393,7 @@
     "name": "FastMail",
     "version": "2.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/fastmail/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/fastmail/icon.svg"
     }
   },
   {
@@ -402,7 +402,7 @@
     "name": "feedbin",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/feedbin/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/feedbin/icon.svg"
     }
   },
   {
@@ -411,7 +411,7 @@
     "name": "Feedly",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/feedly/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/feedly/icon.svg"
     }
   },
   {
@@ -420,7 +420,7 @@
     "name": "Figma",
     "version": "1.0.3",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/figma/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/figma/icon.svg"
     }
   },
   {
@@ -429,7 +429,7 @@
     "name": "Fleep",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/fleep/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/fleep/icon.svg"
     }
   },
   {
@@ -438,7 +438,7 @@
     "name": "Flock",
     "version": "1.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/flock/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/flock/icon.svg"
     }
   },
   {
@@ -447,7 +447,7 @@
     "name": "Flowdock",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/flowdock/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/flowdock/icon.svg"
     }
   },
   {
@@ -456,7 +456,7 @@
     "name": "Custom Website",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/franz-custom-website/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/franz-custom-website/icon.svg"
     }
   },
   {
@@ -465,7 +465,7 @@
     "name": "Freshdesk",
     "version": "1.0.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/freshdesk/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/freshdesk/icon.svg"
     }
   },
   {
@@ -474,7 +474,7 @@
     "name": "Gadu-Gadu",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/gadugadu/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/gadugadu/icon.svg"
     }
   },
   {
@@ -483,7 +483,7 @@
     "name": "GitHub",
     "version": "2.3.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/github/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/github/icon.svg"
     }
   },
   {
@@ -492,7 +492,7 @@
     "name": "GitLab",
     "version": "1.2.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/gitlab/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/gitlab/icon.svg"
     }
   },
   {
@@ -501,7 +501,7 @@
     "name": "Gitter",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/gitter/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/gitter/icon.svg"
     }
   },
   {
@@ -510,7 +510,7 @@
     "name": "glowing-bear",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/glowing-bear/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/glowing-bear/icon.svg"
     }
   },
   {
@@ -519,7 +519,7 @@
     "name": "Gmail",
     "version": "1.4.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/gmail/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/gmail/icon.svg"
     }
   },
   {
@@ -528,7 +528,7 @@
     "name": "Google Contacts",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/google-contacts/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/google-contacts/icon.svg"
     }
   },
   {
@@ -537,7 +537,7 @@
     "name": "Google News",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/google-news/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/google-news/icon.svg"
     }
   },
   {
@@ -546,7 +546,7 @@
     "name": "Google Translate",
     "version": "1.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/google-translate/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/google-translate/icon.svg"
     }
   },
   {
@@ -555,7 +555,7 @@
     "name": "google-voice",
     "version": "0.4.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/google-voice/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/google-voice/icon.svg"
     }
   },
   {
@@ -568,7 +568,7 @@
       "gCalendar"
     ],
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/googlecalendar/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/googlecalendar/icon.svg"
     }
   },
   {
@@ -577,7 +577,7 @@
     "name": "Google Classroom",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/googleclassroom/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/googleclassroom/icon.svg"
     }
   },
   {
@@ -586,7 +586,7 @@
     "name": "Google Drive",
     "version": "2.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/googledrive/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/googledrive/icon.svg"
     }
   },
   {
@@ -595,7 +595,7 @@
     "name": "Google Keep",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/googlekeep/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/googlekeep/icon.svg"
     }
   },
   {
@@ -604,7 +604,7 @@
     "name": "Google Meet",
     "version": "2.2.4",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/googlemeet/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/googlemeet/icon.svg"
     }
   },
   {
@@ -613,7 +613,7 @@
     "name": "Google Podcasts",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/googlepodcasts/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/googlepodcasts/icon.svg"
     }
   },
   {
@@ -622,7 +622,7 @@
     "name": "Go To Meeting",
     "version": "0.3.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/gotomeeting/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/gotomeeting/icon.svg"
     }
   },
   {
@@ -631,7 +631,7 @@
     "name": "Grape",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/grape/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/grape/icon.svg"
     }
   },
   {
@@ -640,7 +640,7 @@
     "name": "GroupMe",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/groupme/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/groupme/icon.svg"
     }
   },
   {
@@ -649,7 +649,7 @@
     "name": "Guilded",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/guilded/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/guilded/icon.svg"
     }
   },
   {
@@ -658,7 +658,7 @@
     "name": "Habitica",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/habitica/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/habitica/icon.svg"
     }
   },
   {
@@ -667,7 +667,7 @@
     "name": "HackMd",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/hackmd/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/hackmd/icon.svg"
     }
   },
   {
@@ -676,7 +676,7 @@
     "name": "Hangouts",
     "version": "1.2.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/hangouts/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/hangouts/icon.svg"
     }
   },
   {
@@ -689,7 +689,7 @@
       "gChat"
     ],
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/hangoutschat/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/hangoutschat/icon.svg"
     }
   },
   {
@@ -698,7 +698,7 @@
     "name": "Harvest",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/harvest/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/harvest/icon.svg"
     }
   },
   {
@@ -707,7 +707,7 @@
     "name": "Hey",
     "version": "1.0.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/hey/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/hey/icon.svg"
     }
   },
   {
@@ -716,7 +716,7 @@
     "name": "HipChat",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/hipchat/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/hipchat/icon.svg"
     }
   },
   {
@@ -725,7 +725,7 @@
     "name": "iCloud",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/iCloud/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/iCloud/icon.svg"
     }
   },
   {
@@ -734,7 +734,7 @@
     "name": "iCloud Reminders",
     "version": "1.0.3",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/icloud-reminders/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/icloud-reminders/icon.svg"
     }
   },
   {
@@ -743,7 +743,7 @@
     "name": "ICQ",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/icq/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/icq/icon.svg"
     }
   },
   {
@@ -752,7 +752,7 @@
     "name": "Idobata",
     "version": "0.2.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/idobata/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/idobata/icon.svg"
     }
   },
   {
@@ -761,7 +761,7 @@
     "name": "Infomaniak Mail",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/infomaniak-mail/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/infomaniak-mail/icon.svg"
     }
   },
   {
@@ -770,7 +770,7 @@
     "name": "Inoreader",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/inoreader/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/inoreader/icon.svg"
     }
   },
   {
@@ -779,7 +779,7 @@
     "name": "Instagram",
     "version": "2.2.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/instagram/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/instagram/icon.svg"
     }
   },
   {
@@ -788,7 +788,7 @@
     "name": "Intercom",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/intercom/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/intercom/icon.svg"
     }
   },
   {
@@ -797,7 +797,7 @@
     "name": "IRCCloud",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/irccloud/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/irccloud/icon.svg"
     }
   },
   {
@@ -806,7 +806,7 @@
     "name": "Jira",
     "version": "1.3.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/jira/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/jira/icon.svg"
     }
   },
   {
@@ -815,7 +815,7 @@
     "name": "Jitsi Meet",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/jitsi/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/jitsi/icon.svg"
     }
   },
   {
@@ -824,7 +824,7 @@
     "name": "jollor",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/jollor/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/jollor/icon.svg"
     }
   },
   {
@@ -833,7 +833,7 @@
     "name": "Microsoft Kaizala",
     "version": "1.2.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/kaizala/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/kaizala/icon.svg"
     }
   },
   {
@@ -842,7 +842,7 @@
     "name": "Keybase",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/keybase.io/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/keybase.io/icon.svg"
     }
   },
   {
@@ -851,7 +851,7 @@
     "name": "Kimai Cloud",
     "version": "1.2.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/kimaicloud/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/kimaicloud/icon.svg"
     }
   },
   {
@@ -860,7 +860,7 @@
     "name": "Lark",
     "version": "0.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/lark/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/lark/icon.svg"
     }
   },
   {
@@ -869,7 +869,7 @@
     "name": "LastPass",
     "version": "2.2.4",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/lastpass/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/lastpass/icon.svg"
     }
   },
   {
@@ -878,7 +878,7 @@
     "name": "Line.me",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/line-me/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/line-me/icon.svg"
     }
   },
   {
@@ -887,7 +887,7 @@
     "name": "LinkedIn",
     "version": "1.2.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/linkedin/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/linkedin/icon.svg"
     }
   },
   {
@@ -896,7 +896,7 @@
     "name": "mailbox.org",
     "version": "1.3.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/mailbox.org/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/mailbox.org/icon.svg"
     }
   },
   {
@@ -905,7 +905,7 @@
     "name": "Mastodon",
     "version": "1.2.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/mastodon/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/mastodon/icon.svg"
     }
   },
   {
@@ -914,7 +914,7 @@
     "name": "Mattermost",
     "version": "1.3.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/mattermost/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/mattermost/icon.svg"
     }
   },
   {
@@ -923,7 +923,7 @@
     "name": "Medium",
     "version": "1.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/medium/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/medium/icon.svg"
     }
   },
   {
@@ -932,7 +932,7 @@
     "name": "Messenger",
     "version": "1.3.3",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/messenger/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/messenger/icon.svg"
     }
   },
   {
@@ -941,7 +941,7 @@
     "name": "MeWe",
     "version": "1.0.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/mewe/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/mewe/icon.svg"
     }
   },
   {
@@ -950,7 +950,7 @@
     "name": "Misskey",
     "version": "1.0.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/misskey/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/misskey/icon.svg"
     }
   },
   {
@@ -959,7 +959,7 @@
     "name": "Monday",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/monday/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/monday/icon.svg"
     }
   },
   {
@@ -968,7 +968,7 @@
     "name": "Monica HQ",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/monicahq/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/monicahq/icon.svg"
     }
   },
   {
@@ -980,7 +980,7 @@
       "teamsChat"
     ],
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/msteams/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/msteams/icon.svg"
     }
   },
   {
@@ -989,7 +989,7 @@
     "name": "Microsoft To Do",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/mstodo/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/mstodo/icon.svg"
     }
   },
   {
@@ -998,7 +998,7 @@
     "name": "MySMS",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/mysms/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/mysms/icon.svg"
     }
   },
   {
@@ -1007,7 +1007,7 @@
     "name": "Netatmo Energy",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/netatmo-energy/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/netatmo-energy/icon.svg"
     }
   },
   {
@@ -1016,7 +1016,7 @@
     "name": "NewsBlur",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/NewsBlur/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/NewsBlur/icon.svg"
     }
   },
   {
@@ -1025,7 +1025,7 @@
     "name": "Nextcloud",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/nextcloud/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/nextcloud/icon.svg"
     }
   },
   {
@@ -1034,7 +1034,7 @@
     "name": "Nextcloud Calendar",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/nextcloud-calendar/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/nextcloud-calendar/icon.svg"
     }
   },
   {
@@ -1043,7 +1043,7 @@
     "name": "Carnet (Nextcloud)",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/nextcloud-carnet/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/nextcloud-carnet/icon.svg"
     }
   },
   {
@@ -1052,7 +1052,7 @@
     "name": "Nextcloud Cospend",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/nextcloud-cospend/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/nextcloud-cospend/icon.svg"
     }
   },
   {
@@ -1061,7 +1061,7 @@
     "name": "Nextcloud Talk",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/nextcloud-talk/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/nextcloud-talk/icon.svg"
     }
   },
   {
@@ -1070,7 +1070,7 @@
     "name": "Nextcloud Tasks",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/nextcloud-tasks/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/nextcloud-tasks/icon.svg"
     }
   },
   {
@@ -1079,7 +1079,7 @@
     "name": "Nextdoor",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/nextdoor/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/nextdoor/icon.svg"
     }
   },
   {
@@ -1088,7 +1088,7 @@
     "name": "Noisli",
     "version": "1.0.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/noisli/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/noisli/icon.svg"
     }
   },
   {
@@ -1097,7 +1097,7 @@
     "name": "nomadlist",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/nomadlist/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/nomadlist/icon.svg"
     }
   },
   {
@@ -1106,7 +1106,7 @@
     "name": "Notion",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/notion/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/notion/icon.svg"
     }
   },
   {
@@ -1115,7 +1115,7 @@
     "name": "Odoo",
     "version": "1.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/odoo/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/odoo/icon.svg"
     }
   },
   {
@@ -1127,7 +1127,7 @@
       "live.com"
     ],
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/office365-owa/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/office365-owa/icon.svg"
     }
   },
   {
@@ -1136,7 +1136,7 @@
     "name": "OneNote",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/onenote/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/onenote/icon.svg"
     }
   },
   {
@@ -1145,7 +1145,7 @@
     "name": "OVH Cloud",
     "version": "1.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/OVHCloud/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/OVHCloud/icon.svg"
     }
   },
   {
@@ -1154,7 +1154,7 @@
     "name": "paymo",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/paymo/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/paymo/icon.svg"
     }
   },
   {
@@ -1163,7 +1163,7 @@
     "name": "Pinterest",
     "version": "1.0.3",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/pinterest/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/pinterest/icon.svg"
     }
   },
   {
@@ -1172,7 +1172,7 @@
     "name": "Pipefy",
     "version": "1.0.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/pipefy/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/pipefy/icon.svg"
     }
   },
   {
@@ -1181,7 +1181,7 @@
     "name": "pivotal-tracker",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/pivotal-tracker/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/pivotal-tracker/icon.svg"
     }
   },
   {
@@ -1190,7 +1190,7 @@
     "name": "plan",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/plan/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/plan/icon.svg"
     }
   },
   {
@@ -1199,7 +1199,7 @@
     "name": "Plek",
     "version": "1.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/plek/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/plek/icon.svg"
     }
   },
   {
@@ -1208,7 +1208,7 @@
     "name": "Pleroma",
     "version": "1.2.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/pleroma/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/pleroma/icon.svg"
     }
   },
   {
@@ -1217,7 +1217,7 @@
     "name": "Plurk",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/plurk/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/plurk/icon.svg"
     }
   },
   {
@@ -1226,7 +1226,7 @@
     "name": "Pocket",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/pocket/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/pocket/icon.svg"
     }
   },
   {
@@ -1235,7 +1235,7 @@
     "name": "podio",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/podio/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/podio/icon.svg"
     }
   },
   {
@@ -1244,7 +1244,7 @@
     "name": "Pomodoro Tracker",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/pomodoro-tracker/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/pomodoro-tracker/icon.svg"
     }
   },
   {
@@ -1253,7 +1253,7 @@
     "name": "Product Hunt",
     "version": "1.0.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/producthunt/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/producthunt/icon.svg"
     }
   },
   {
@@ -1262,7 +1262,7 @@
     "name": "ProtonMail",
     "version": "1.3.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/proton-mail/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/proton-mail/icon.svg"
     }
   },
   {
@@ -1271,7 +1271,7 @@
     "name": "ProtonCalendar",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/protoncalendar/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/protoncalendar/icon.svg"
     }
   },
   {
@@ -1280,7 +1280,7 @@
     "name": "protonet",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/protonet/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/protonet/icon.svg"
     }
   },
   {
@@ -1289,7 +1289,7 @@
     "name": "PulseSMS",
     "version": "1.2.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/pulsesms/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/pulsesms/icon.svg"
     }
   },
   {
@@ -1298,7 +1298,7 @@
     "name": "Pushbullet",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/pushbullet/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/pushbullet/icon.svg"
     }
   },
   {
@@ -1307,7 +1307,7 @@
     "name": "RainLoop",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/rainloop/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/rainloop/icon.svg"
     }
   },
   {
@@ -1316,7 +1316,7 @@
     "name": "Reddit",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/reddit/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/reddit/icon.svg"
     }
   },
   {
@@ -1325,7 +1325,7 @@
     "name": "Reddit Chat",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/redditchat/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/redditchat/icon.svg"
     }
   },
   {
@@ -1334,7 +1334,7 @@
     "name": "Riseup.net",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/riseup/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/riseup/icon.svg"
     }
   },
   {
@@ -1343,7 +1343,7 @@
     "name": "Ritetag",
     "version": "1.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/ritetag/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/ritetag/icon.svg"
     }
   },
   {
@@ -1352,7 +1352,7 @@
     "name": "Rocket.Chat",
     "version": "1.2.3",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/rocketchat/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/rocketchat/icon.svg"
     }
   },
   {
@@ -1361,7 +1361,7 @@
     "name": "Roundcube",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/roundcube/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/roundcube/icon.svg"
     }
   },
   {
@@ -1370,7 +1370,7 @@
     "name": "Scribens",
     "version": "1.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/scribens/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/scribens/icon.svg"
     }
   },
   {
@@ -1379,7 +1379,7 @@
     "name": "Scrumpy",
     "version": "1.0.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/scrumpy/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/scrumpy/icon.svg"
     }
   },
   {
@@ -1388,7 +1388,7 @@
     "name": "Sendtask",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/sendtask/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/sendtask/icon.svg"
     }
   },
   {
@@ -1397,7 +1397,7 @@
     "name": "Simplenote",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/simplenote/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/simplenote/icon.svg"
     }
   },
   {
@@ -1406,7 +1406,7 @@
     "name": "Skype",
     "version": "3.2.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/skype/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/skype/icon.svg"
     }
   },
   {
@@ -1415,7 +1415,7 @@
     "name": "Slack",
     "version": "1.3.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/slack/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/slack/icon.svg"
     }
   },
   {
@@ -1424,7 +1424,7 @@
     "name": "Slite",
     "version": "1.0.5",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/slite/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/slite/icon.svg"
     }
   },
   {
@@ -1433,7 +1433,7 @@
     "name": "Slowly",
     "version": "1.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/slowly/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/slowly/icon.svg"
     }
   },
   {
@@ -1442,7 +1442,7 @@
     "name": "Snapdrop",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/snapdrop/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/snapdrop/icon.svg"
     }
   },
   {
@@ -1451,7 +1451,7 @@
     "name": "Sococo",
     "version": "1.0.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/sococo/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/sococo/icon.svg"
     }
   },
   {
@@ -1460,7 +1460,7 @@
     "name": "StackExchange",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/stackexchange/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/stackexchange/icon.svg"
     }
   },
   {
@@ -1469,7 +1469,7 @@
     "name": "Stackoverflow",
     "version": "0.0.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/stackoverflow/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/stackoverflow/icon.svg"
     }
   },
   {
@@ -1478,7 +1478,7 @@
     "name": "Stackoverflow chat",
     "version": "1.0.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/stackoverflow-chat/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/stackoverflow-chat/icon.svg"
     }
   },
   {
@@ -1487,7 +1487,7 @@
     "name": "StandardNotes",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/standardnotes/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/standardnotes/icon.svg"
     }
   },
   {
@@ -1496,7 +1496,7 @@
     "name": "SteamChat",
     "version": "1.3.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/steamchat/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/steamchat/icon.svg"
     }
   },
   {
@@ -1505,7 +1505,7 @@
     "name": "Stride",
     "version": "1.2.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/stride/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/stride/icon.svg"
     }
   },
   {
@@ -1514,7 +1514,7 @@
     "name": "superhuman",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/superhuman/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/superhuman/icon.svg"
     }
   },
   {
@@ -1523,7 +1523,7 @@
     "name": "sync",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/sync/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/sync/icon.svg"
     }
   },
   {
@@ -1532,7 +1532,7 @@
     "name": "Tawk.to",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/tawk/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/tawk/icon.svg"
     }
   },
   {
@@ -1541,7 +1541,7 @@
     "name": "teamleader",
     "version": "1.1.3",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/teamleader/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/teamleader/icon.svg"
     }
   },
   {
@@ -1550,7 +1550,7 @@
     "name": "Teamweek",
     "version": "1.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/teamweek/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/teamweek/icon.svg"
     }
   },
   {
@@ -1559,7 +1559,7 @@
     "name": "Teamwork Projects",
     "version": "0.2.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/teamwork-projects/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/teamwork-projects/icon.svg"
     }
   },
   {
@@ -1568,7 +1568,7 @@
     "name": "Telegram",
     "version": "3.2.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/telegram/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/telegram/icon.svg"
     }
   },
   {
@@ -1577,7 +1577,7 @@
     "name": "Telegram React",
     "version": "1.2.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/telegram-react/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/telegram-react/icon.svg"
     }
   },
   {
@@ -1586,7 +1586,7 @@
     "name": "The Lounge",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/thelounge/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/thelounge/icon.svg"
     }
   },
   {
@@ -1595,7 +1595,7 @@
     "name": "Threema",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/threema/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/threema/icon.svg"
     }
   },
   {
@@ -1604,7 +1604,7 @@
     "name": "TickTick",
     "version": "1.2.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/TickTick/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/TickTick/icon.svg"
     }
   },
   {
@@ -1613,7 +1613,7 @@
     "name": "Tinder",
     "version": "1.0.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/tinder/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/tinder/icon.svg"
     }
   },
   {
@@ -1622,7 +1622,7 @@
     "name": "Tixio",
     "version": "1.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/tixio/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/tixio/icon.svg"
     }
   },
   {
@@ -1631,7 +1631,7 @@
     "name": "Todoist",
     "version": "1.3.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/todoist/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/todoist/icon.svg"
     }
   },
   {
@@ -1640,7 +1640,7 @@
     "name": "toggl",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/toggl/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/toggl/icon.svg"
     }
   },
   {
@@ -1649,7 +1649,7 @@
     "name": "Trello",
     "version": "1.2.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/trello/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/trello/icon.svg"
     }
   },
   {
@@ -1658,7 +1658,7 @@
     "name": "Tutanota",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/tutanota/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/tutanota/icon.svg"
     }
   },
   {
@@ -1667,7 +1667,7 @@
     "name": "Tweetdeck",
     "version": "1.2.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/tweetdeck/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/tweetdeck/icon.svg"
     }
   },
   {
@@ -1676,7 +1676,7 @@
     "name": "twist",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/twist/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/twist/icon.svg"
     }
   },
   {
@@ -1685,7 +1685,7 @@
     "name": "Twitch",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/twitch/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/twitch/icon.svg"
     }
   },
   {
@@ -1694,7 +1694,7 @@
     "name": "Twitter",
     "version": "1.2.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/twitter/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/twitter/icon.svg"
     }
   },
   {
@@ -1703,7 +1703,7 @@
     "name": "Twitter DM",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/twitter-dm/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/twitter-dm/icon.svg"
     }
   },
   {
@@ -1712,7 +1712,7 @@
     "name": "Udemy",
     "version": "1.0.5",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/udemy/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/udemy/icon.svg"
     }
   },
   {
@@ -1721,7 +1721,7 @@
     "name": "Unraid",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/unraid/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/unraid/icon.svg"
     }
   },
   {
@@ -1730,7 +1730,7 @@
     "name": "VK",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/vk/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/vk/icon.svg"
     }
   },
   {
@@ -1739,7 +1739,7 @@
     "name": "Voxer",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/voxer/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/voxer/icon.svg"
     }
   },
   {
@@ -1748,7 +1748,7 @@
     "name": "Wakatime",
     "version": "1.0.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/wakatime/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/wakatime/icon.svg"
     }
   },
   {
@@ -1757,7 +1757,7 @@
     "name": "Webex Teams",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/webex-teams/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/webex-teams/icon.svg"
     }
   },
   {
@@ -1766,7 +1766,7 @@
     "name": "WeChat",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/wechat/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/wechat/icon.svg"
     }
   },
   {
@@ -1775,7 +1775,7 @@
     "name": "Weekplan",
     "version": "1.0.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/weekplan/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/weekplan/icon.svg"
     }
   },
   {
@@ -1784,7 +1784,7 @@
     "name": "WhatsApp",
     "version": "3.3.5",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/whatsapp/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/whatsapp/icon.svg"
     }
   },
   {
@@ -1793,7 +1793,7 @@
     "name": "whereby.com",
     "version": "1.0.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/whereby/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/whereby/icon.svg"
     }
   },
   {
@@ -1802,7 +1802,7 @@
     "name": "Wire",
     "version": "1.0.4",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/wire/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/wire/icon.svg"
     }
   },
   {
@@ -1811,7 +1811,7 @@
     "name": "Spectrum",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/withspectrum/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/withspectrum/icon.svg"
     }
   },
   {
@@ -1820,7 +1820,7 @@
     "name": "Workplace",
     "version": "1.3.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/workplace/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/workplace/icon.svg"
     }
   },
   {
@@ -1829,7 +1829,7 @@
     "name": "Wrike",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/wrike/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/wrike/icon.svg"
     }
   },
   {
@@ -1838,7 +1838,7 @@
     "name": "XING",
     "version": "1.2.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/xing/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/xing/icon.svg"
     }
   },
   {
@@ -1847,7 +1847,7 @@
     "name": "Yahoo Mail",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/yahoo-mail/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/yahoo-mail/icon.svg"
     }
   },
   {
@@ -1856,7 +1856,7 @@
     "name": "Yammer",
     "version": "1.1.2",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/yammer/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/yammer/icon.svg"
     }
   },
   {
@@ -1865,7 +1865,7 @@
     "name": "Yandex Mail",
     "version": "1.0.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/yandex-mail/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/yandex-mail/icon.svg"
     }
   },
   {
@@ -1874,7 +1874,7 @@
     "name": "YouTrack",
     "version": "1.2.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/youtrack/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/youtrack/icon.svg"
     }
   },
   {
@@ -1883,7 +1883,7 @@
     "name": "YouTube Music",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/youtubemusic/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/youtubemusic/icon.svg"
     }
   },
   {
@@ -1892,7 +1892,7 @@
     "name": "Zalo",
     "version": "1.2.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zalo/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zalo/icon.svg"
     }
   },
   {
@@ -1901,7 +1901,7 @@
     "name": "Zellim",
     "version": "2.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-app/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zellim-app/icon.svg"
     }
   },
   {
@@ -1910,7 +1910,7 @@
     "name": "Zellim Calendar",
     "version": "2.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-calendar/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zellim-calendar/icon.svg"
     }
   },
   {
@@ -1919,7 +1919,7 @@
     "name": "Zellim Chat",
     "version": "2.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-chat/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zellim-chat/icon.svg"
     }
   },
   {
@@ -1928,7 +1928,7 @@
     "name": "Zellim Conference",
     "version": "2.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-conference/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zellim-conference/icon.svg"
     }
   },
   {
@@ -1937,7 +1937,7 @@
     "name": "Zellim Contacts",
     "version": "2.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-contacts/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zellim-contacts/icon.svg"
     }
   },
   {
@@ -1946,7 +1946,7 @@
     "name": "Zellim Dashboard",
     "version": "2.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-dashboard/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zellim-dashboard/icon.svg"
     }
   },
   {
@@ -1955,7 +1955,7 @@
     "name": "Zellim Groups",
     "version": "2.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-groups/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zellim-groups/icon.svg"
     }
   },
   {
@@ -1964,7 +1964,7 @@
     "name": "Zellim Notes",
     "version": "2.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-notes/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zellim-notes/icon.svg"
     }
   },
   {
@@ -1973,7 +1973,7 @@
     "name": "Zellim Organization",
     "version": "2.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-organization/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zellim-organization/icon.svg"
     }
   },
   {
@@ -1982,7 +1982,7 @@
     "name": "Zellim Projects",
     "version": "2.0.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-projects/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zellim-projects/icon.svg"
     }
   },
   {
@@ -1991,7 +1991,7 @@
     "name": "Zellim Vault",
     "version": "2.0.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zellim-vault/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zellim-vault/icon.svg"
     }
   },
   {
@@ -2000,7 +2000,7 @@
     "name": "zendesk",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zendesk/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zendesk/icon.svg"
     }
   },
   {
@@ -2009,7 +2009,7 @@
     "name": "ZenHub",
     "version": "0.2.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zenhub/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zenhub/icon.svg"
     }
   },
   {
@@ -2018,7 +2018,7 @@
     "name": "Zeplin",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zeplin/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zeplin/icon.svg"
     }
   },
   {
@@ -2027,7 +2027,7 @@
     "name": "Zimbra",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zimbra/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zimbra/icon.svg"
     }
   },
   {
@@ -2036,7 +2036,7 @@
     "name": "Zoho Mail",
     "version": "1.1.0",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zoho/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zoho/icon.svg"
     }
   },
   {
@@ -2045,7 +2045,7 @@
     "name": "Zulip",
     "version": "1.1.1",
     "icons": {
-      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/zulip/icon.svg"
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes@latest/recipes/zulip/icon.svg"
     }
   }
 ]
