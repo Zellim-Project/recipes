@@ -918,6 +918,15 @@
     }
   },
   {
+    "featured": false,
+    "id": "medium",
+    "name": "Medium",
+    "version": "1.0.0",
+    "icons": {
+      "svg": "https://cdn.jsdelivr.net/gh/Zellim-Project/recipes/recipes/medium/icon.svg"
+    }
+  },
+  {
     "featured": true,
     "id": "messenger",
     "name": "Messenger",

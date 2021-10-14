@@ -6,6 +6,6 @@
   "config": {
     "serviceURL": "https://app.zellim.com/conference?desktopService=true",
     "hasCustomUrl": false,
-    "hasNotificationSound": true
+    "hasNotificationSound": false
   }
 }
