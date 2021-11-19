@@ -1,3 +1,7 @@
+var _path = _intereopRequireDefault(require('pathj'));
+
+function _intereopRequireDefault(obj) { return obj && obj._esModule ? obj : { default: obj }; }
+
 module.exports = Ferdi => {
   const getMessages = () => {
     const unread = document.querySelector("[data-service-notification-count=general]")?.textContent?.trim() || '0';
@@ -5,4 +9,5 @@ module.exports = Ferdi => {
   };
 
   Ferdi.loop(getMessages);
+  Ferdi.injectJSUnsafe(_path.default.join(__dirname, 'zellim-bridge.js'));
 };
