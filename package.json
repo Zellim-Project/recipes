@@ -9,7 +9,7 @@
     "package": "node scripts/package.js",
     "create": "node scripts/create.js",
     "lint": "eslint . --fix",
-    "reformat-files": "./node_modules/.bin/prettier --ignore-path .eslintignore --write --require-pragma \"**/*.{js,json,scss}\""
+    "reformat-files": "npx prettier --ignore-path .eslintignore --write --require-pragma \"**/*.{js,json,scss}\""
   },
   "repository": {
     "type": "git",
