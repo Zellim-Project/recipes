@@ -1,4 +1,4 @@
-var _path = _intereopRequireDefault(require('pathj'));
+var _path = _intereopRequireDefault(require('path'));
 
 function _intereopRequireDefault(obj) { return obj && obj._esModule ? obj : { default: obj }; }
 
