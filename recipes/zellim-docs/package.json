@@ -1,10 +1,10 @@
 {
-  "id": "zellim-groups",
-  "name": "Zellim Groups",
+  "id": "zellim-notes",
+  "name": "Zellim Notes",
   "version": "2.0.0",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://app.zellim.com/groups?desktopService=true",
+    "serviceURL": "https://app.zellim.com/docs?desktopService=true",
     "hasCustomUrl": false,
     "hasNotificationSound": false
   }
